@@ -1,0 +1,10 @@
+{
+    "files": "./**/*",
+    "builds": {
+        "linux64": {
+            "platform": "linux64",
+            "appName": "GmailApp",
+            "outputFormat": "deb"
+        }
+    }
+}

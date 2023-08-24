@@ -1,23 +1,8 @@
 {
-  "name": "gmaildesktop",
-  "version": "0.0.1",
-  "description": "A desktop application for users who want an gmail application instead of relying on a cluttered web browser.",
-  "main": "index.js",
-  "scripts": {
-    "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/broimsuperman/GmailDesktop.git"
-  },
-  "author": "broimsuperman",
-  "license": "SEE LICENSE IN README.md",
-  "bugs": {
-    "url": "https://github.com/broimsuperman/GmailDesktop/issues"
-  },
-  "homepage": "https://github.com/broimsuperman/GmailDesktop#readme",
-  "devDependencies": {
-    "electron": "^26.1.0"
+  "name": "gmailapp",
+  "main": "index.html",
+  "window": {
+      "width": 800,
+      "height": 600
   }
 }
