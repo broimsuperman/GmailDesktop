@@ -23,7 +23,7 @@ This project is released under the Apache License 2.0, empowering developers and
 
 ## Installation
 
-You can install Your Application Name by following these steps:
+You can install YGmail Desktop by following these steps:
 
 1. Clone the repository:
    ```bash
