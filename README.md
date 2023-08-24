@@ -1,8 +1,9 @@
 # Gmail Desktop
 A desktop application for users who want an gmail application instead of relying on a cluttered web browser.
+
 ## Description
 
-Gmail Desktop Companion
+Gmail Desktop
 
 The Gmail Desktop is a versatile application that brings the power of Gmail right to your desktop. Seamlessly integrating with your Gmail account, this application offers a range of features to enhance your email management and communication efficiency.
 
@@ -23,8 +24,32 @@ This project is released under the Apache License 2.0, empowering developers and
 
 ## Installation
 
-You can install YGmail Desktop by following these steps:
+You can install Gmail Desktop by following these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/broimsuperman/GmailDesktop.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd GmailDesktop
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Start the application:
+   ```bash
+   npm start
+
+## Usage
+
+You can use Gmail Desktop by following these steps:
+
+1. Enter your Gmail account credentials and click **Sign In**.
+2. If you have 2FA enabled, enter the verification code sent to your device.
+3. Once you're signed in, you can access your Gmail inbox, sent items, drafts, and more, all from a single, intuitive desktop application.
+
+## Contributing
+
+Contributions are welcome!
